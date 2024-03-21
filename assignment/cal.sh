@@ -26,6 +26,8 @@ echo "Total Bill: Ksh $totalBill"
 
 
 # Question Two
+
+#!/bin/bash
 echo "Enter Employee Name:"
 read employeeName
 
@@ -52,4 +54,4 @@ echo "Tax: $tax"
 echo "Net Pay: $netPay"
 
 
-#!/bin/bash
+
